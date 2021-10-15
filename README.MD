@@ -1,5 +1,5 @@
 Project Overview
-PRINTF is a 42 Project that aims to mimic libc printf function
+PRINTF is a 21 Project that aims to mimic libc printf function
 
 Basics, requested from subject:
 
